@@ -1,2 +1,1 @@
-# The-Charles-Scout
-AR Scout
+# The Charles Scout
